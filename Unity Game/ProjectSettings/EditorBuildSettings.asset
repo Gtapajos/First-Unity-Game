@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Assets/Traps/Scenes/mainMenu.unity
+    guid: 2982cc9dd3e4f5b4a93f93a5c9ceef41
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Assets/Traps/Scenes/lvl_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Assets/Traps/Scenes/lvl_2.unity
+    guid: 32a0f52670253644ab89b9009c628567
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Assets/Traps/Scenes/lvl_3.unity
+    guid: ea1b8189507e58248b30a21889f9bd29
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Assets/Traps/Scenes/lvl_4.unity
+    guid: aacb060f18f77d64dabaa99713f69826
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Assets/Traps/Scenes/lvl_5.unity
+    guid: 5ef78447bb746c940b9accebe447c95e
+  m_configObjects: {}
